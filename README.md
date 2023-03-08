@@ -20,6 +20,6 @@ This implementation is based on the lane detection algorithm presented in the fo
 C. H. Lee, Y. H. Kim, S. G. Hong, and H. K. Kim, “Robust lane detection and tracking in challenging scenarios,” IEEE Transactions on Intelligent Transportation Systems, vol. 18, no. 7, pp. 1794–1805, Jul. 2017.
 
 # Future Improvements
-Lane curvature detection can be added to obtain a more accurate representation of the lane.
-The algorithm can be optimized to improve performance on low-end hardware.
-The algorithm can be made more robust to challenging weather conditions such as rain and snow.
+1- Lane curvature detection can be added to obtain a more accurate representation of the lane.
+2- The algorithm can be optimized to improve performance on low-end hardware.
+3- The algorithm can be made more robust to challenging weather conditions such as rain and snow.
